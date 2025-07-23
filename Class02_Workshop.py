@@ -12,5 +12,5 @@ elif distance <=300 :
 elif distance <=500 :
     print(distance,"km", "ราคา 35 บาท")
 else :
-    print("ราคา 45 บาท")
+    print(distance,"km","ราคา 45 บาท")
 
